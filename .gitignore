@@ -27,3 +27,6 @@ target/
 
 # VS Code specific
 .vscode/
+
+# IntelliJ IDEA specific
+.idea/

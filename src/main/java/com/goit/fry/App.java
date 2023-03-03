@@ -3,8 +3,8 @@ package com.goit.fry;
 import com.google.gson.Gson;
 
 public class App {
-    private String name;
-    private String lastName;
+    private final String name;
+    private final String lastName;
 
     public static void main(String[] args) {
         App app = new App();
